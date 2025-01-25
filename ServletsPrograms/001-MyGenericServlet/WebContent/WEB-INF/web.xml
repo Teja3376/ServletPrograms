@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<element>
+<web-app>
+  <servlet>
+      <servlet-name>hello</servlet-name>
+      <servlet-class>MyServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+     <servlet-name>hello</servlet-name>
+     <url-pattern>/GS</url-pattern>
+  
+  </servlet-mapping>
+</web-app>
+</element>

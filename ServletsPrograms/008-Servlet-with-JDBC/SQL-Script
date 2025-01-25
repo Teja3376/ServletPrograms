@@ -1,0 +1,22 @@
+MySQL :
+  
+   create table userdetails(name varchar(20),password varchar(20),
+   email varchar(35),language varchar(25));
+
+
+Oracle
+
+ create table userdetails(name varchar(20),password varchar(20),
+   email varchar(35),language varchar(25));
+
+
+
+
+
+
+CREATE TABLE  USERDETAILS   
+   ( NAME VARCHAR(20),   
+    PASSWORD VARCHAR(15),   
+    EMAIL VARCHAR(20),   
+    LANGUAGE VARCHAR(15)  
+   ); 
