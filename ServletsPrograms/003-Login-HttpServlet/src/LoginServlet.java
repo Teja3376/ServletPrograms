@@ -22,7 +22,7 @@ public class LoginServlet extends HttpServlet {
         
     	response.setContentType("text/html");
         
-        PrintWriter out = response.getWriter();
+    	 PrintWriter out = response.getWriter();
         
         try {
            // String username=null,password=null;
